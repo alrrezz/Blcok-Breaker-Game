@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Start.unity
+    guid: f8c46fd675dbe194d80954ff0690697b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1.unity
+    guid: e350e96bba2495c4a881d6e3c5278210
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2.unity
+    guid: 87c291bee7ba28f4babfc590549d32d2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3.unity
+    guid: 221114f8edf8a7f4a81ac4cbd60f78ae
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 4.unity
+    guid: 922ddc4428d50064886b61376c9a8b27
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 5.unity
+    guid: b3f86e649822bdc48946054eb0ec4494
+  - enabled: 1
+    path: Assets/Scenes/Menus/Creddit.unity
+    guid: c45e20a35728a424188b177cdbf6e262
+  - enabled: 1
+    path: Assets/Scenes/Menus/Won Level.unity
+    guid: cfc1abafb59dde745aaea741fc94ddb2
+  - enabled: 1
+    path: Assets/Scenes/Menus/Game Over.unity
+    guid: 6ac345292816fcf409b0aedbe4d8b814
+  m_configObjects: {}

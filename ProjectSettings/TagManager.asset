@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - One Shot Breakable
+  - Paddle
+  - Invisible Block
+  - BallX2Item
+  - BallX3Item
+  - Ball
+  - Unbreakable
+  - Invisible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Block
+    uniqueID: 3423092439
+    locked: 0
+  - name: Ball
+    uniqueID: 2601297105
+    locked: 0
+  - name: Paddle
+    uniqueID: 2573209559
+    locked: 0
+  - name: Item
+    uniqueID: 614923753
+    locked: 0
