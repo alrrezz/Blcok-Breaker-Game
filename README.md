@@ -91,19 +91,13 @@ Open the project in Unity Hub, select the Windows platform, and hit Play.
 ---
 
 ## Future Improvements
-Lives system with UI
-
-More power-ups
-
-More levels
-
-Level selection menu
-
-Save system
-
-Mobile support
-
-Visual polish & juice
+- Lives system with UI
+- More power-ups
+- More levels
+- Level selection menu
+- Save system
+- Mobile support
+- Visual polish & juice
 
 ---
 
